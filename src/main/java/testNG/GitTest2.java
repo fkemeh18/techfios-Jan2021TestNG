@@ -18,5 +18,5 @@ public class GitTest2 {
 	public static void printMe3() {
 		System.out.println("git test");
 	}
-	
+	 
 }
